@@ -16,24 +16,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Jonathan Samuel Lumentut, Joshua Santoso, and In Kyu Park, In ACCV 2020
 <img src="assets/2021/Conferences/ACCV_2020.png" alt="hi" class="inline"/>
 
+### Convolutional Neural Network 을 이용한 휴먼 모션 블러 데이터셋의 생성
+### Joshua Santoso, nathan Samuel Lumentut, and In Kyu Park, In IPIU 
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/joshuajano/joshuajano.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
