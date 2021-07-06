@@ -14,7 +14,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Human Motion Deblurring using Localized Body Prior
 ### Jonathan Samuel Lumentut, Joshua Santoso, and In Kyu Park, In ACCV 2020
-<img src="assets/2021/Journal/ICIC_EXPRESS_2021.png" alt="hi" class="inline"/>
+<img src="assets/2021/Conferences/ACCV_2020.png" alt="hi" class="inline"/>
 
 # Header 1
 ## Header 2
