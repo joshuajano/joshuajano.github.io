@@ -4,8 +4,6 @@
 <img src="assets/PP.JPEG" alt="hi" class="inline"/>
 Hi! I am Joshua Santoso you can call me Joshua.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 ## Publications  
 
 ### DEEP CORRELATION BASED HOMOGRAPHY ESTIMATION FOR IMAGE STITCHING
