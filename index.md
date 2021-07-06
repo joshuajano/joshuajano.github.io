@@ -8,7 +8,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ## Publications  
 
-###DEEP CORRELATION BASED HOMOGRAPHY ESTIMATION FOR IMAGE STITCHING
+### DEEP CORRELATION BASED HOMOGRAPHY ESTIMATION FOR IMAGE STITCHING
 
 ```markdown
 Syntax highlighted code block
