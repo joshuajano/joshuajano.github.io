@@ -9,13 +9,12 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ## Publications  
 
 ### DEEP CORRELATION BASED HOMOGRAPHY ESTIMATION FOR IMAGE STITCHING
-### Joshua Santoso, Williem, and Rini Wongso
+### Joshua Santoso, Williem, and Rini Wongso, In ICIC Express Letters, Volume 15, Number 9, September 2021. 
 <img src="assets/2021/Journal/ICIC_EXPRESS_2021.png" alt="hi" class="inline"/>
-In ICIC Express Letters, Volume 15, Number 9, September 2021. 
 
-### DEEP CORRELATION BASED HOMOGRAPHY ESTIMATION FOR IMAGE STITCHING
+### Human Motion Deblurring using Localized Body Prior
+### Jonathan Samuel Lumentut, Joshua Santoso, and In Kyu Park, In ACCV 2020
 <img src="assets/2021/Journal/ICIC_EXPRESS_2021.png" alt="hi" class="inline"/>
-In ICIC Express Letters, Volume 15, Number 9, September 2021. 
 
 # Header 1
 ## Header 2
