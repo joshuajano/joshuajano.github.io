@@ -6,14 +6,14 @@ Hi! I am Joshua Santoso you can call me Joshua.
 
 ## Publications  
 <table border: 1px solid #CCC border-collapse: collapse>
-    <tr>
-        <th>No.</th>
-        <th>Name</th>
-        <th>Age</th>
+    <tr border: none>
+        <th border: none>No.</th>
+        <th border: none>Name</th>
+        <th border: none>Age</th>
     </tr>
-    <tr>
-        <td>1</td>
-        <td>Peter Parker</td>
+    <tr border: none>
+        <td border: none>1</td>
+        <td border: none>Peter Parker</td>
         <td>16</td>
     </tr>
     <tr>
