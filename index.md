@@ -5,8 +5,12 @@
 Hi! I am Joshua Santoso you can call me Joshua.
 
 ## Publications  
-
+<p float="left">
+<img src="assets/2021/Journal/ICIC_EXPRESS_2021.png" width="100" />
+</p>
+  
 <img src="assets/2021/Journal/ICIC_EXPRESS_2021.png" alt="hi" class="inline"/>
+
 ### DEEP CORRELATION BASED HOMOGRAPHY ESTIMATION FOR IMAGE STITCHING
 ### Joshua Santoso, Williem, and Rini Wongso, In ICIC Express Letters, Volume 15, Number 9, September 2021. 
 
