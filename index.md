@@ -5,7 +5,7 @@
 Hi! I am Joshua Santoso you can call me Joshua.
 
 ## Publications  
-<table, border: 1px solid #CCC, border-collapse: collapse>
+<table>
     <tr>
         <th>No.</th>
         <th>Name</th>
