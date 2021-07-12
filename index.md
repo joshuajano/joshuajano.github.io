@@ -11,7 +11,7 @@ Hi! I am Joshua Santoso you can call me Joshua.
         <td>In ICIC Express Letters, Volume 15, Number 9, September 2021 </td>
     </tr>
     <tr>
-        <td>oshua Santoso, Williem, and Rini Wongso</td>
+        <td> <strong>Joshua Santoso </strong>, Williem, and Rini Wongso</td>
     </tr>
 </table>
   
