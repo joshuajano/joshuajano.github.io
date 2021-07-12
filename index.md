@@ -1,6 +1,7 @@
 # Joshua Santoso
 Hi! I am Joshua Santoso you can call me Joshua
-## Publications  
+## Publications
+<div style="overflow-x:auto;">
 <table border="0">
     <tr>            `                                                                                               
         <td rowspan="4"><img src="assets/2021/Journal/ICIC_EXPRESS_2021.png" width="50%" /></td>
@@ -16,7 +17,7 @@ Hi! I am Joshua Santoso you can call me Joshua
     </tr>
     
 </table>
-  
+</div>  
 <img src="assets/2021/Journal/ICIC_EXPRESS_2021.png" alt="hi" class="inline"/>
 
 ### DEEP CORRELATION BASED HOMOGRAPHY ESTIMATION FOR IMAGE STITCHING
