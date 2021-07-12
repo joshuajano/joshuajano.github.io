@@ -15,6 +15,10 @@ Hi! I am Joshua Santoso you can call me Joshua
     <tr>
         <td>In ICIC Express Letters, Volume 15, Number 9, September 2021</td>
     </tr>
+    <tr>
+        <td>In ICIC Express Letters, Volume 15, Number 9, September 2021</td>
+    </tr>
+    
     <tr>            `                                                                                               
         <td rowspan="4" width= "50%"><img src="assets/2021/Conferences/ACCV_2020.png"/></td>
     </tr> 
