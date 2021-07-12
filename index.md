@@ -6,8 +6,9 @@ Hi! I am Joshua Santoso you can call me Joshua.
 <table border="0">
     <tr>            `                                                                                               
         <td rowspan="3"><img src="assets/2021/Journal/ICIC_EXPRESS_2021.png" alt="hi" class="inline"/></td>
-        <td>DEEP CORRELATION BASED HOMOGRAPHY ESTIMATION FOR IMAGE STITCHING</td>
-        <td>16</td>
+        <td>Deep Correlation Based Homography Estimation for Image Stitching</td>
+        <td>Joshua Santoso, Williem, and Rini Wongso</td>
+        <td>In ICIC Express Letters, Volume 15, Number 9, September 2021 </td>
     </tr>
     <tr>
         <td>2</td>
