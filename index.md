@@ -5,10 +5,23 @@
 Hi! I am Joshua Santoso you can call me Joshua.
 
 ## Publications  
-<p float="left">
-<img src="assets/2021/Journal/ICIC_EXPRESS_2021.png" width="400" />
-### DEEP CORRELATION BASED HOMOGRAPHY ESTIMATION FOR IMAGE STITCHING
-</p>
+<table>
+    <tr>
+        <th>No.</th>
+        <th>Name</th>
+        <th>Age</th>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>Peter Parker</td>
+        <td>16</td>
+    </tr>
+    <tr>
+        <td>2</td>
+        <td>Clark Kent</td>
+        <td>34</td>
+    </tr>
+</table>
   
 <img src="assets/2021/Journal/ICIC_EXPRESS_2021.png" alt="hi" class="inline"/>
 
