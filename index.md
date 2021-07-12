@@ -3,7 +3,7 @@ Hi! I am Joshua Santoso you can call me Joshua
 ## Publications  
 <table border="0">
     <tr>            `                                                                                               
-        <td rowspan="4"><img src="assets/2021/Journal/ICIC_EXPRESS_2021.png" alt="hi" class="inline"/></td>
+        <td rowspan="4"><img src="assets/2021/Journal/ICIC_EXPRESS_2021.png"/></td>
     </tr>
     <tr>
         <td>Deep Correlation Based Homography Estimation For Image Stitching</td>
