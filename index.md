@@ -6,9 +6,9 @@ Hi! I am Joshua Santoso you can call me Joshua.
 
 ## Publications  
 
+<img src="assets/2021/Journal/ICIC_EXPRESS_2021.png" alt="hi" class="inline"/>
 ### DEEP CORRELATION BASED HOMOGRAPHY ESTIMATION FOR IMAGE STITCHING
 ### Joshua Santoso, Williem, and Rini Wongso, In ICIC Express Letters, Volume 15, Number 9, September 2021. 
-<img src="assets/2021/Journal/ICIC_EXPRESS_2021.png" alt="hi" class="inline"/>
 
 ### Human Motion Deblurring using Localized Body Prior
 ### Jonathan Samuel Lumentut, Joshua Santoso, and In Kyu Park, In ACCV 2020
