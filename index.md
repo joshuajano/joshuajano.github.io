@@ -5,21 +5,21 @@
 Hi! I am Joshua Santoso you can call me Joshua.
 
 ## Publications  
-<table border="0" border-collapse= "collapse">
+<table border="0">
     <tr>
-        <th border: none>No.</th>
-        <th border: none>Name</th>
-        <th border: none>Age</th>
+        <th>No.</th>
+        <th>Name</th>
+        <th>Age</th>
     </tr>
     <tr>
-        <td border: none>1</td>
-        <td border: none>Peter Parker</td>
-        <td border: none>16</td>
+        <td>1</td>
+        <td>Peter Parker</td>
+        <td>16</td>
     </tr>
     <tr>
-        <td border: none>2</td>
-        <td border: none>Clark Kent</td>
-        <td border: none>34</td>
+        <td>2</td>
+        <td>Clark Kent</td>
+        <td>34</td>
     </tr>
 </table>
   
