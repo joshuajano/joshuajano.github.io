@@ -4,8 +4,8 @@ Hi! I am Joshua Santoso you can call me Joshua.
 
 ## Publications  
 <table border="0">
-    <tr>
-        <td colspan="3" border="0"><img src="assets/2021/Journal/ICIC_EXPRESS_2021.png" alt="hi" class="inline"/></td>
+    <tr>            `                                                                                               
+        <td rowspan="3"><img src="assets/2021/Journal/ICIC_EXPRESS_2021.png" alt="hi" class="inline"/></td>
         <td>DEEP CORRELATION BASED HOMOGRAPHY ESTIMATION FOR IMAGE STITCHING</td>
         <td>16</td>
     </tr>
