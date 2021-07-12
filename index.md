@@ -4,7 +4,7 @@ Hi! I am Joshua Santoso you can call me Joshua
 
 <table border="0">
     <tr>            `                                                                                               
-        <td rowspan="3" width= "50%"><img src="assets/2021/Journal/ICIC_EXPRESS_2021.png"/></td>
+        <td rowspan="4" width= "50%"><img src="assets/2021/Journal/ICIC_EXPRESS_2021.png"/></td>
     </tr>
     <tr>
         <td>Deep Correlation Based Homography Estimation For Image Stitching</td>
