@@ -1,3 +1,11 @@
+table {
+    border: 1px solid #CCC;
+    border-collapse: collapse;
+}
+
+td {
+    border: none;
+}
 # Joshua Santoso
 
 
