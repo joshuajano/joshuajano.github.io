@@ -7,7 +7,7 @@ Hi! I am Joshua Santoso you can call me Joshua.
 ## Publications  
 <table border="0">
     <tr>
-        <td><img src="assets/2021/Journal/ICIC_EXPRESS_2021.png" alt="hi" class="inline"/></td>
+        <td colspan="3"><img src="assets/2021/Journal/ICIC_EXPRESS_2021.png" alt="hi" class="inline"/></td>
         <td>Peter Parker</td>
         <td>16</td>
     </tr>
