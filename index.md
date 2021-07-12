@@ -1,7 +1,5 @@
 # Joshua Santoso
-<img src="assets/PP.JPEG" alt="hi" class="inline"/>
-Hi! I am Joshua Santoso you can call me Joshua.
-
+Hi! I am Joshua Santoso you can call me Joshua
 ## Publications  
 <table border="0">
     <tr>            `                                                                                               
@@ -13,7 +11,9 @@ Hi! I am Joshua Santoso you can call me Joshua.
     <tr>
         <td> <strong>Joshua Santoso </strong>, Williem, and Rini Wongso</td>
     </tr>
-
+    <tr>
+        <td>In ICIC Express Letters, Volume 15, Number 9, September 2021</td>
+    </tr>
 </table>
   
 <img src="assets/2021/Journal/ICIC_EXPRESS_2021.png" alt="hi" class="inline"/>
