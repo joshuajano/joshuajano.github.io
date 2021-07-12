@@ -48,7 +48,20 @@ Hi! I am Joshua Santoso you can call me Joshua
         <td>In IPIU, 2020</td>
     </tr>
 </table> 
-
+<table>
+    <tr>                                                                                       
+        <td rowspan="4" width= "50%"><img src="assets/2021/Journal/SUBM_2021.PNG"/></td>
+    </tr>
+    <tr>
+        <td>Paper review of 3D Human Body Reconstruction</td>
+    </tr>
+    <tr>
+        <td><strong>Joshua Santoso</strong> and In Kyu Park</td>
+    </tr>
+    <tr>
+        <td>In submission, 2021/td>
+    </tr>
+</table> 
 
 ### Convolutional Neural Network 을 이용한 휴먼 모션 블러 데이터셋의 생성
 ### Joshua Santoso, Jonathan Samuel Lumentut, and In Kyu Park, In IPIU 2020
