@@ -60,7 +60,7 @@ Hi! I am Joshua Santoso you can call me Joshua
         <td><strong>Joshua Santoso</strong> and In Kyu Park</td>
     </tr>
     <tr>
-        <td>In submission, 2021/td>
+        <td>In submission, 2021 </td>
     </tr>
 </table> 
 
@@ -75,6 +75,6 @@ Hi! I am Joshua Santoso you can call me Joshua
         <td><strong>Joshua Santoso</strong>, Williem, and In Kyu Park</td>
     </tr>
     <tr>
-        <td>In submission, 2021/td>
+        <td>In submission, 2021 </td>
     </tr>
 </table> 
