@@ -1,11 +1,3 @@
-table {
-    border: 1px solid #CCC;
-    border-collapse: collapse;
-}
-
-td {
-    border: none;
-}
 # Joshua Santoso
 
 
@@ -13,7 +5,7 @@ td {
 Hi! I am Joshua Santoso you can call me Joshua.
 
 ## Publications  
-<table>
+<table, border: 1px solid #CCC, border-collapse: collaps, >
     <tr>
         <th>No.</th>
         <th>Name</th>
