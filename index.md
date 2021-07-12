@@ -48,6 +48,7 @@ Hi! I am Joshua Santoso you can call me Joshua
         <td>In IPIU, 2020</td>
     </tr>
 </table> 
+
 <table>
     <tr>                                                                                       
         <td rowspan="4" width= "50%"><img src="assets/2021/Journal/SUBM_2021.PNG"/></td>
