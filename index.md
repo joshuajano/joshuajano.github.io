@@ -4,7 +4,7 @@
 Hi! I am Joshua Santoso you can call me Joshua
 ## Publications
 
-<table border="0">
+<table cellspacing="0" cellpadding="0">
     <tr>            `                                                                                               
         <td rowspan="4" width= "50%"><img src="assets/2021/Journal/ICIC_EXPRESS_2021.png"/></td>
     </tr>
