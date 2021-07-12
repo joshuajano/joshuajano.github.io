@@ -5,15 +5,8 @@
 Hi! I am Joshua Santoso you can call me Joshua.
 
 ## Publications  
-<table border="0" style="width:825px;"> 
-    <tr>
-        <th>No.</th>
-        <th>Name</th>
-        <th>Age</th>
-    </tr>
-</table>
 <table border="0">
-    <tr>
+    <tr border="0">
         <th>No.</th>
         <th>Name</th>
         <th>Age</th>
