@@ -6,8 +6,8 @@ Hi! I am Joshua Santoso you can call me Joshua.
 <table border="0">
     <tr>            `                                                                                               
         <td rowspan="3"><img src="assets/2021/Journal/ICIC_EXPRESS_2021.png" alt="hi" class="inline"/></td>
-        <td> <strong></td>
-        <td> <strong></td>
+        <td></td>
+        <td>/td>
     </tr>
     <tr>
         <td> <strong>Joshua Santoso </strong>, Williem, and Rini Wongso</td>
