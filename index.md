@@ -6,7 +6,7 @@ Hi! I am Joshua Santoso you can call me Joshua.
 
 ## Publications  
 <p float="left">
-<img src="assets/2021/Journal/ICIC_EXPRESS_2021.png" width="100" />
+<img src="assets/2021/Journal/ICIC_EXPRESS_2021.png" width="400" />
 </p>
   
 <img src="assets/2021/Journal/ICIC_EXPRESS_2021.png" alt="hi" class="inline"/>
