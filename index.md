@@ -15,12 +15,20 @@ Hi! I am Joshua Santoso you can call me Joshua
     <tr>
         <td>In ICIC Express Letters, Volume 15, Number 9, September 2021</td>
     </tr>
-    
+    <tr>            `                                                                                               
+        <td rowspan="4" width= "50%"><img src="assets/2021/Conferences/ACCV_2020.png"/></td>
+    </tr>
+    <tr>
+        <td>Human Motion Deblurring using Localized Body Prior</td>
+    </tr>
+    <tr>
+        <td> Jonathan Samuel Lumentut, <strong> Joshua Santoso </strong>, and In Kyu Park </td>
+    </tr>
+    <tr>
+        <td>In Asian Conference on Computer Vision (ACCV), 2020</td>
+    </tr>
+        
 </table> 
-<img src="assets/2021/Journal/ICIC_EXPRESS_2021.png" alt="hi" class="inline"/>
-
-### DEEP CORRELATION BASED HOMOGRAPHY ESTIMATION FOR IMAGE STITCHING
-### Joshua Santoso, Williem, and Rini Wongso, In ICIC Express Letters, Volume 15, Number 9, September 2021. 
 
 ### Human Motion Deblurring using Localized Body Prior
 ### Jonathan Samuel Lumentut, Joshua Santoso, and In Kyu Park, In ACCV 2020
