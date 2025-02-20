@@ -5,7 +5,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   Email:joshuajano(at)yahoo(dot)com
   
-remote_theme: pages-themes/minimal@v0.2.0
+remote_theme: julianolf/jekyll-theme-8bit
 plugins:
-- julianolf/jekyll-theme-8bit
+- jekyll-remote-theme
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
