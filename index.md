@@ -1,4 +1,4 @@
-<h1 style="color:#01a2a6;margin-bottom:5px;">Portfolio</h1>
+<h1 style="color:#01a2a6;margin-bottom:5px;">Publications</h1>
 
 ---
 
