@@ -39,7 +39,7 @@
 
 <h3 style="color:#01a2a6;margin-bottom:5px;">Human Motion Deblurring using Localized Body Prior, ACCV 2020</h3>
 <h4 style="margin-bottom:5px;">Jonathan Samuel Lumentut, <strong style="color:#01a2a6;">Joshua Santoso</strong>, and In Kyu Park</h4>
-[Paper](https://openaccess.thecvf.com/content/ACCV2020/papers/Lumentut_Human_Motion_Deblurring_using_Localized_Body_Prior_ACCV_2020_paper.pdf)
+[[Paper]](https://openaccess.thecvf.com/content/ACCV2020/papers/Lumentut_Human_Motion_Deblurring_using_Localized_Body_Prior_ACCV_2020_paper.pdf)
 <img src="images/publications/accv2020.png?raw=true"/>
 
 ---
