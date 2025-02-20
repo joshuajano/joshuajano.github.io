@@ -3,7 +3,8 @@
 ---
 
 ## On Manipulating Scene Text in the Wild with Diffusion Models, WACV 2024
-### Joshua Santoso, Christian Simon, Williem
+Joshua Santoso, Christian Simon, Williem
+[Paper]("https://arxiv.org/pdf/2311.00734") [Code]("https://github.com/joshuajano/DBEST")
 <!-- [Project 1 Title](/sample_page) -->
 <img src="images/publications/wacv2024.png?raw=true"/>
 
