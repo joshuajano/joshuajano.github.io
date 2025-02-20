@@ -3,7 +3,7 @@ logo: "/images/jano.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Hi! I am Joshua Santoso from Indonesia. Currently, I am a computer vision engineering and researcher.
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  Email:joshuajano(at)yahoo(dot)com
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
