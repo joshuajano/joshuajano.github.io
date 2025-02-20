@@ -2,10 +2,10 @@
 
 ---
 
-### Category Name 1 
-
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### WACV 2024, On Manipulating Scene Text in the Wild with Diffusion Models
+## Joshua Santoso, Christian Simon, Williem
+<!-- [Project 1 Title](/sample_page) -->
+<img src="images/publications/wacv2024.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
