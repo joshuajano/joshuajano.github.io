@@ -43,5 +43,10 @@
 <img src="images/publications/accv2020.png?raw=true"/>
 
 ---
+
+<h1 style="color:#01a2a6;margin-bottom:5px;">Service</h1>
+<h4 style="margin-bottom:5px;"><strong style="color:#01a2a6;">Reviewer for Computer vision conferences: </strong>CVPR and ECCV</h4>
+<h4 style="margin-bottom:5px;"><strong style="color:#01a2a6;">Reviewer for Computer vision journals: </strong>IJCV</h4>
+---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
